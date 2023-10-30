@@ -99,7 +99,7 @@ export default async function Home() {
 
       </div>
       <div className="bg-gray-100 border-2 border-white p-2 bg-opacity-80 border-opacity-80 mt-3">
-        <ChartEvolucao DataJSON={grafico} altura={450} />
+        <ChartEvolucao DataJSON={grafico} altura={455} />
       </div>
     </main>
   )

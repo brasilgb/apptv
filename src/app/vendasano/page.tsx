@@ -19,7 +19,7 @@ const VendasAno = async () => {
           titleClass={"text-2xl text-blue-900"}
           barColor="#009DE0"
           labelEnabled={true}
-          heightgr={860}
+          heightgr={865}
         />
       </div>
       <div className="grid grid-rows-4 gap-2 flex-1">
